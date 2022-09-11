@@ -11,11 +11,13 @@ int main(){
 		countries[i] = malloc(sizeof(char) * 29);
 		capitals[i] = malloc(sizeof(char) * 20);
 	}
-	int correct, wrong1, wrong2, wrong3, picked, correct_placement, repeats;
+	int correct, wrong1, wrong2, wrong3, picked, correct_placement, repeats, wrongs;
 	unsigned int seed;
 
 	//Initialize variables
 	seed = time(NULL);
+	wrongs = 0;
+
 	//Countries
 	strcpy(countries[0], "Afghanistan\x00");
 	strcpy(countries[1], "Armenien\x00");
@@ -168,6 +170,7 @@ int main(){
 			}
 			else{
 				printf("\nWrong. The right answer would have been: %s\n", countries[correct]);
+				++wrongs;
 			}
 		}
 		else{
@@ -204,10 +207,14 @@ int main(){
 			}
 			else{
 				printf("\nWrong. The right answer would have been: %s\n", capitals[correct]);
+				++wrongs;
 			}
 		}
 		printf("\n\n");
 	}
+
+	printf("Wrong answers: %i\n", wrongs);
+	printf("You got ~%i%% wrong.\n",  (100 * wrongs) / repeats);
 
 	//Free memory
 	for(int i = 0; i < 48; i++){
