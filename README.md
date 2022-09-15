@@ -6,3 +6,5 @@ Collection of some quick side projects
 ***NimBF:*** Brainfuck interpreter written in Nim as I wanted to try out Nim *(~2:30h)*
 
 ***ProgrammingLanguagesSpeedComparison:*** Speed comparison of c, c# and Nim *(~2:30h)*
+
+***c#+c_test:*** A test for combining c and c# code, to get stuff done quick (c) and still have other things easy (c#) *(~0:30h)*
