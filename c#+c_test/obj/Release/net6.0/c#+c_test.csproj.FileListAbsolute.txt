@@ -1,0 +1,15 @@
+/media/MassMedia/iokg/QuickSideProjects/c#+c_test/obj/Release/net6.0/c#+c_test.csproj.AssemblyReference.cache
+/media/MassMedia/iokg/QuickSideProjects/c#+c_test/obj/Release/net6.0/c#+c_test.GeneratedMSBuildEditorConfig.editorconfig
+/media/MassMedia/iokg/QuickSideProjects/c#+c_test/obj/Release/net6.0/c#+c_test.AssemblyInfoInputs.cache
+/media/MassMedia/iokg/QuickSideProjects/c#+c_test/obj/Release/net6.0/c#+c_test.AssemblyInfo.cs
+/media/MassMedia/iokg/QuickSideProjects/c#+c_test/obj/Release/net6.0/c#+c_test.csproj.CoreCompileInputs.cache
+/media/MassMedia/iokg/QuickSideProjects/c#+c_test/bin/Release/net6.0/c#+c_test
+/media/MassMedia/iokg/QuickSideProjects/c#+c_test/bin/Release/net6.0/c#+c_test.deps.json
+/media/MassMedia/iokg/QuickSideProjects/c#+c_test/bin/Release/net6.0/c#+c_test.runtimeconfig.json
+/media/MassMedia/iokg/QuickSideProjects/c#+c_test/bin/Release/net6.0/c#+c_test.dll
+/media/MassMedia/iokg/QuickSideProjects/c#+c_test/bin/Release/net6.0/ref/c#+c_test.dll
+/media/MassMedia/iokg/QuickSideProjects/c#+c_test/bin/Release/net6.0/c#+c_test.pdb
+/media/MassMedia/iokg/QuickSideProjects/c#+c_test/obj/Release/net6.0/c#+c_test.dll
+/media/MassMedia/iokg/QuickSideProjects/c#+c_test/obj/Release/net6.0/ref/c#+c_test.dll
+/media/MassMedia/iokg/QuickSideProjects/c#+c_test/obj/Release/net6.0/c#+c_test.pdb
+/media/MassMedia/iokg/QuickSideProjects/c#+c_test/obj/Release/net6.0/c#+c_test.genruntimeconfig.cache
