@@ -8,3 +8,5 @@ Collection of some quick side projects
 ***ProgrammingLanguagesSpeedComparison:*** Speed comparison of c, c# and Nim *(~2:30h)*
 
 ***c#+c_test:*** A test for combining c and c# code, to get stuff done quick (c) and still have other things easy (c#) *(~0:30h)*
+
+***Manelbrot:*** A mandelbrot set calculator *(~4:30h)*

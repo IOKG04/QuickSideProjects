@@ -1,0 +1,17 @@
+/media/MassMedia/iokg/QuickSideProjects/Mandelbrot/bin/Release/net6.0/Mandelbrot
+/media/MassMedia/iokg/QuickSideProjects/Mandelbrot/bin/Release/net6.0/Mandelbrot.deps.json
+/media/MassMedia/iokg/QuickSideProjects/Mandelbrot/bin/Release/net6.0/Mandelbrot.runtimeconfig.json
+/media/MassMedia/iokg/QuickSideProjects/Mandelbrot/bin/Release/net6.0/Mandelbrot.dll
+/media/MassMedia/iokg/QuickSideProjects/Mandelbrot/bin/Release/net6.0/ref/Mandelbrot.dll
+/media/MassMedia/iokg/QuickSideProjects/Mandelbrot/bin/Release/net6.0/Mandelbrot.pdb
+/media/MassMedia/iokg/QuickSideProjects/Mandelbrot/bin/Release/net6.0/SixLabors.ImageSharp.dll
+/media/MassMedia/iokg/QuickSideProjects/Mandelbrot/obj/Release/net6.0/Mandelbrot.csproj.AssemblyReference.cache
+/media/MassMedia/iokg/QuickSideProjects/Mandelbrot/obj/Release/net6.0/Mandelbrot.GeneratedMSBuildEditorConfig.editorconfig
+/media/MassMedia/iokg/QuickSideProjects/Mandelbrot/obj/Release/net6.0/Mandelbrot.AssemblyInfoInputs.cache
+/media/MassMedia/iokg/QuickSideProjects/Mandelbrot/obj/Release/net6.0/Mandelbrot.AssemblyInfo.cs
+/media/MassMedia/iokg/QuickSideProjects/Mandelbrot/obj/Release/net6.0/Mandelbrot.csproj.CoreCompileInputs.cache
+/media/MassMedia/iokg/QuickSideProjects/Mandelbrot/obj/Release/net6.0/Mandelbrot.csproj.CopyComplete
+/media/MassMedia/iokg/QuickSideProjects/Mandelbrot/obj/Release/net6.0/Mandelbrot.dll
+/media/MassMedia/iokg/QuickSideProjects/Mandelbrot/obj/Release/net6.0/ref/Mandelbrot.dll
+/media/MassMedia/iokg/QuickSideProjects/Mandelbrot/obj/Release/net6.0/Mandelbrot.pdb
+/media/MassMedia/iokg/QuickSideProjects/Mandelbrot/obj/Release/net6.0/Mandelbrot.genruntimeconfig.cache
