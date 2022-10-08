@@ -12,3 +12,5 @@ Collection of some quick side projects
 ***Manelbrot:*** A mandelbrot set calculator *(~4:30h)*
 
 ***HappyHalloween!:*** A program that, if run long enough, prints "Happy Halloween" *(~0:30h)*
+
+***RustTest:*** A quick test for Rust (I don't really like it) *(~0:45h)*
