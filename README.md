@@ -14,3 +14,5 @@ Collection of some quick side projects
 ***HappyHalloween!:*** A program that, if run long enough, prints "Happy Halloween" *(~0:30h)*
 
 ***RustTest:*** A quick test for Rust (I don't really like it) *(~0:45h)*
+
+***Inverse3n+1:*** A small test for Haskell, calculating the amount of numbers n steps away from reaching 1 using the 3n+1 algorythm (I like Haskell) *(~1:00h)*
